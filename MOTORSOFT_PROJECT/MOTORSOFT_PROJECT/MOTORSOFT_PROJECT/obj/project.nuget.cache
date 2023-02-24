@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "if8PNRv5in7i0zUBMJCAl+sv+XwOMQyoqQBWlMLGCHQgVQeEpA24bRr5gn22aN14P/r7GhoxyDe/hL4MbSWxew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan Arango\\AplicacionMovil\\MOTORSOFT_PROJECT\\MOTORSOFT_PROJECT\\MOTORSOFT_PROJECT\\MOTORSOFT_PROJECT\\MOTORSOFT_PROJECT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan Arango\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jonathan Arango\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jonathan Arango\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jonathan Arango\\.nuget\\packages\\xamarin.essentials\\1.7.5\\xamarin.essentials.1.7.5.nupkg.sha512",
+    "C:\\Users\\Jonathan Arango\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512"
+  ],
+  "logs": []
+}
