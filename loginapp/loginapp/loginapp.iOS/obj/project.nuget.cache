@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpFw3k36kQNqbZg7y6UBxkOevCWh3y2y/6gUr8a/gGOaVBE5qBYBYLtVAZXRgsHW3/z6TR4qvs5rahsqU6B4GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan Arango\\AplicacionMovil\\MOTORSOFT_PROJECT\\loginapp\\loginapp\\loginapp.iOS\\loginapp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan Arango\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jonathan Arango\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Jonathan Arango\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

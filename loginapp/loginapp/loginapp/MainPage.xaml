@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="loginapp.MainPage" BackgroundColor="#3f51b5">
+
+
+
+    
+    
+    <StackLayout >
+
+        <StackLayout VerticalOptions="StartAndExpand" >
+            <Label Text="Registro" HorizontalOptions="Center" TextColor="White" FontSize="Title"/>
+
+            
+        </StackLayout>
+        
+        <Image Source="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/300px-Logo_TV_2015.svg.png" WidthRequest="100" HeightRequest="100" />
+
+
+        <StackLayout VerticalOptions="CenterAndExpand"  Padding="50" >
+            
+            <Entry Placeholder="Nombre" TextColor="White" PlaceholderColor="LightGray"/>
+            <Entry Placeholder="Correo" TextColor="White" PlaceholderColor="LightGray"/>
+            <Entry Placeholder="Teléfono" TextColor="White" PlaceholderColor="LightGray" />
+            <Entry Placeholder="Dirección" TextColor="White" PlaceholderColor="LightGray" />
+            <Entry Placeholder="Contraseña" IsPassword="True" TextColor="White" PlaceholderColor="LightGray" />
+
+
+            <Button Text="Guardar" BackgroundColor="Transparent" BorderWidth="2" BorderColor="LightGray"></Button>
+        </StackLayout>
+     
+
+
+
+    </StackLayout>
+
+</ContentPage>

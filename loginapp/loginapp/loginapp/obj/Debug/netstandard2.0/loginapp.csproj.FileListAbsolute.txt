@@ -1,0 +1,16 @@
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\bin\Debug\netstandard2.0\loginapp.deps.json
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\bin\Debug\netstandard2.0\loginapp.dll
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\bin\Debug\netstandard2.0\loginapp.pdb
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\loginapp.csproj.AssemblyReference.cache
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\loginapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\loginapp.AssemblyInfoInputs.cache
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\loginapp.AssemblyInfo.cs
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\loginapp.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\loginapp.dll
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\refint\loginapp.dll
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\loginapp.pdb
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\ref\loginapp.dll
+C:\Users\Jonathan Arango\AplicacionMovil\MOTORSOFT_PROJECT\loginapp\loginapp\loginapp\obj\Debug\netstandard2.0\Page1.xaml.g.cs
